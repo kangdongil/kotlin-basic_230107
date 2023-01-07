@@ -17,3 +17,12 @@ fun add(a: Int, b: Int):Int {
 }
 
 // VAL vs. VAR
+
+fun hi() {
+    val a : Int = 10
+    var b : Int = 9
+    b = 100
+    var c = 100
+    var d : String
+    var name : string = "noru"
+}
